@@ -1,0 +1,8 @@
+node_modules
+dist
+.cache
+oldDist
+noita to do.txt
+screenshot.png
+mobile-screenshot.png
+screenshot-new-font.png
